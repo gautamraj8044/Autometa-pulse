@@ -3,7 +3,6 @@
 A modern, responsive business automation solutions website built with HTML, CSS, Bootstrap, and JavaScript. The website showcases automation services, projects, and company information with a professional and clean design.
 
 ## Features
-## Modified for test 
 
 - Responsive design for all device sizes
 - Interactive navigation menu
